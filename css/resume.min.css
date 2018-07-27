@@ -157,3 +157,30 @@ a:active,a:focus,a:hover
 {
 	margin-bottom: 2em;
 }
+
+.floatleft
+{
+	/*float:left;*/
+	/*border:1px solid red;*/
+}
+.floatright
+{
+	/*float:left;*/
+	/*border:1px solid red;*/
+}
+
+.leftcontainer
+{
+	/*border:1px solid blue;*/
+	height: 15em;
+	width:40%;
+	float:left;
+}
+.rightcontainer
+{
+	/*border:1px solid black;*/
+	height: 15em;
+	width:40%;
+	float:left;
+}
+
